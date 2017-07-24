@@ -4,4 +4,6 @@ For a well defined sample return we need to run monte carlo methods in a episodi
 Only in te end of an episode our value functions and policies change.
 
 Understand On Policy Methods and Off policy Methods.
+For the questions please refere to https://github.com/dennybritz/reinforcement-learning/tree/master/MC Excercises section a the bottom of the page.
+
 
