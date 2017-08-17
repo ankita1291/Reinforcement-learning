@@ -1,3 +1,10 @@
+
+""" this is a work in progress.
+Most of the code is taken from https://github.com/dennybritz/reinforcement-learning/blob/master/DQN/Deep%20Q%20Learning%20Solution.ipynb
+"""
+
+
+
 %matplotlib inline
 
 import gym
